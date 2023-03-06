@@ -14,3 +14,18 @@
 <p/>
 
 <br/>
+
+<div class="gallery-certificados-javier-arteaga" style="display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 10px;">
+  <a href="https://github.com/javierstamina/scrum/blob/master/SPFC%20Certiprof%202023.pdf" target="_blank">
+    <img src="https://github.com/javierstamina/Certificados/blob/master/img/Compra%20program%C3%A1tica%20de%20medios%20Publicidad%20online%20en%20tiempo%20real.jpg" alt="Descripción de la imagen 1" style="width: 250px;
+    height: auto;">
+  </a>
+  <a href="https://github.com/javierstamina/scrum/blob/master/Scrum%20Foundation%20Professional%20Certificate.pdf" target="_blank">
+    <img src="https://github.com/javierstamina/scrum/blob/master/img/Scrum%20Foundation%20Professional%20Certificate.jpg" alt="Descripción de la imagen 2" style="width: 250px;
+    height: auto;">
+  </a>
+
+  <!-- Agrega más imágenes aquí -->
+</div>
