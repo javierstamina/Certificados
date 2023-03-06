@@ -23,7 +23,7 @@
     height: auto;">
   </a>
   <a href="https://github.com/javierstamina/scrum/blob/master/Scrum%20Foundation%20Professional%20Certificate.pdf" target="_blank">
-    <img src="https://github.com/javierstamina/scrum/blob/master/img/Scrum%20Foundation%20Professional%20Certificate.jpg" alt="Descripción de la imagen 2" style="width: 250px;
+    <img src="https://github.com/javierstamina/Certificados/blob/master/img/Design%20Thinking.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
 
