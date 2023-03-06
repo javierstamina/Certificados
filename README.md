@@ -22,7 +22,7 @@
     <img src="https://github.com/javierstamina/Certificados/blob/master/img/Compra%20program%C3%A1tica%20de%20medios%20Publicidad%20online%20en%20tiempo%20real.jpg" alt="Descripción de la imagen 1" style="width: 250px;
     height: auto;">
   </a>
-  <a href="https://github.com/javierstamina/scrum/blob/master/Scrum%20Foundation%20Professional%20Certificate.pdf" target="_blank">
+  <a href="https://github.com/javierstamina/Certificados/blob/master/Design%20Thinking.pdf" target="_blank">
     <img src="https://github.com/javierstamina/Certificados/blob/master/img/Design%20Thinking.jpg" alt="Descripción de la imagen 2" style="width: 250px;
     height: auto;">
   </a>
