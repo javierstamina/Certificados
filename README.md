@@ -30,7 +30,7 @@
   </a>
    
     <a href="https://github.com/javierstamina/Certificados/blob/master/Estrategia%20de%20Redes%20Sociales.pdf" target="_blank">
-    <img src="https://github.com/javierstamina/Certificados/blob/master/img/Estrategia%20de%20Redes%20Sociales.jpg" alt="Descripción de la imagen 2" style="width: 250px;  height: auto;">
+    <img src="https://github.com/javierstamina/Certificados/blob/master/img/Estrategia%20de%20Redes%20Sociales.jpg" alt="Descripción de la imagen 2" style="width: 250px;height: auto;">
    </a>
    
    <a href="https://github.com/javierstamina/Certificados/blob/master/FT%20PE%20-%20Growth%20Hacking.pdf" target="_blank">
